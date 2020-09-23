@@ -26,13 +26,9 @@ image in Postgress
 
 .Router authenticated
 
-
-#Execution:
+## Execution:
 
 Create the image in the docker and connect with postgres using dbver;
-
 Type "Yarn" in the terminal to download node_modules;
-
 Type "Yarn start" to start the server;
-
 Type "Wire type migration: run;
